@@ -1,1 +1,2 @@
 我是FrankLee
+这是Git的练习文件
