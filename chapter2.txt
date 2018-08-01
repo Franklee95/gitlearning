@@ -1,2 +1,3 @@
 This is a new file orginally based on the "newbrch" branch
 Then I switch this file to the "master" branch and then I delete the newbrch branch
+This is the modification on the newbrch branch
