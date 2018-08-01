@@ -3,3 +3,5 @@ Then I switch this file to the "master" branch and then I delete the newbrch bra
 This is the modification on the master branch
 This is the modification on the newbrch branch
 This is the test of the branch management
+
+#Version1.0
