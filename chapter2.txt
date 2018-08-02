@@ -6,3 +6,4 @@ This is the test of the branch management
 
 #Version1.0
 ##Version1.1
+##Version1.2
